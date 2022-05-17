@@ -1,6 +1,6 @@
 # Plan your next trip
 
-The objective of this project is to devolp an application that will be able to recommend the best destinations and hotels based on data collected in the web.
+The objective of this project is to develop an application that will be able to recommand the best destinations and hotels based on data collected in the web.
 ## Getting Started
 
 The project goals are :
@@ -36,7 +36,7 @@ You can run the jupiter notebook to get trip recomandations
 
 ## Authors
 
-**Amina Nasri** - [SpeedyAmy](https://github.com/SpeedyAmy)
+**Amina Nasri** - [SpeedyAmy](https://github.com/SpeedyAmy) 
 
 ## Acknowledgments
 
