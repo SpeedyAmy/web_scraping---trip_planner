@@ -32,7 +32,7 @@ You can run the jupiter notebook to get trip recomandations
 
 ## Built With
 
-* nom du jupyter notebook : 
+* nom du jupyter notebook : trip_planner.ipnyb
 
 ## Authors
 
