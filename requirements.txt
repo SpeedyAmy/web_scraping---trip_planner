@@ -1,0 +1,10 @@
+
+os
+logging
+scrapy
+pandas
+plotly.express 
+plotly.io 
+requests
+datetime 
+boto3
