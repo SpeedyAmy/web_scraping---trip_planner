@@ -1,6 +1,11 @@
 # Plan your next trip
 
 The objective of this project is to develop an application that will be able to recommand the best destinations and hotels based on data collected in the web.
+
+## Details for certification
+* email : amina.nasri@gmail.com
+* video link : https://share.vidyard.com/watch/9hrYwpBiiiMMVatZgji9Rm?
+
 ## Getting Started
 
 The project goals are :
